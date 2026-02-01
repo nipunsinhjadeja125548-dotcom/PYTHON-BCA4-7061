@@ -1,0 +1,14 @@
+# simple interest 
+# Enrollment number : 92400527061
+# Name : Nipunsinh Jadeja
+
+
+p = float(input("Enter Amount: "))
+r = float(input("Enter Rate : "))
+t = float(input("Enter Time : "))
+
+
+si = (p * r * t) / 100
+
+
+print("Simple Interest :  ", si)
