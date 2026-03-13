@@ -1,4 +1,7 @@
 # Print all prime numbers between 1 to 100.
+# Enrollment number : 92400527061
+# Name : Nipunsinh Jadeja
+
 
 for num in range(1, 101):
     
@@ -12,3 +15,4 @@ for num in range(1, 101):
         
         if flag == 0:
             print(num, end=" ")
+
