@@ -1,4 +1,7 @@
 # function which accepts 3 arguments
+# Enrollment Number : 92400527061
+# Name : Nipunsinh Jadeja
+
 
 def arithmetic(a,b,op):
     if op == '+' :
@@ -25,3 +28,4 @@ b = int(input("enter second number:  "))
 op = input("+,-,*,/,%:  ")
 
 arithmetic(a,b,op)
+
