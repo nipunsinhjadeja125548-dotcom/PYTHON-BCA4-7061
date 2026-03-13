@@ -1,4 +1,7 @@
 # factorial using function
+# Enrollment Number : 92400527061
+# Name : Nipunsinh Jadeja
+
 
 def factorial (num) :
     
@@ -12,4 +15,5 @@ def factorial (num) :
 
 num = int(input("Enter number: "))
 factorial(num)
+
 
