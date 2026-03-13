@@ -1,4 +1,7 @@
 # prime number or not
+# Enrollment Number : 92400527061
+# Name : Nipunsinh Jadeja
+
 
 num = int(input("enter number:  "))
 
@@ -12,3 +15,4 @@ if flag == 1 :
 
 else :
         print("prime") 
+
